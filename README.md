@@ -4,7 +4,7 @@ A modern, responsive landing page for Dockzen built with Next.js 14, React 18, a
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-deployment-url.com)
+[View Live Demo]([https://your-deployment-url.com](https://dockzen-nextjs-landing.vercel.app/))
 
 ## ✨ Features
 
