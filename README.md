@@ -3,7 +3,7 @@
 A modern, responsive landing page for Dockzen built with Next.js 14, React 18, and TypeScript. This project showcases a comprehensive business management platform with beautiful UI/UX design.
 
 ## 🚀 Live Demo
-https://your-deployment-url.com](https://dockzen-nextjs-landing.vercel.app/
+https://dockzen-nextjs-landing.vercel.app/
 
 ## ✨ Features
 
